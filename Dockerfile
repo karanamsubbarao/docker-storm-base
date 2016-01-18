@@ -1,4 +1,4 @@
-FROM karanamsubbarao/jre
+FROM karanamsubbarao/docker-jre
 
 # Loosely based on wurstmeister containers
 
